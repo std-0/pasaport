@@ -18,84 +18,9 @@ head('Pagina principala');
     <!--====== Breadcrumb end ======-->
 
     <!--====== Service With counter Start ======-->
-    <section class="service-section section-gap">
-        <div class="container">
-            <div class="service-boxes">
-                <div class="service-box">
-                    <div class="icon">
-                        <i class="flaticon-three-dimensional"></i>
-                    </div>
-                    <h4 class="title">
-                        <a href="service-details.html">Website <br> Development</a>
-                    </h4>
-                    <a href="service-details.html" class="service-link"><i class="fal fa-arrow-right"></i></a>
-                </div>
-                <div class="service-box">
-                    <div class="icon">
-                        <i class="flaticon-payment-method"></i>
-                    </div>
-                    <h4 class="title">
-                        <a href="service-details.html">App Design <br> Development</a>
-                    </h4>
-                    <a href="service-details.html" class="service-link"><i class="fal fa-arrow-right"></i></a>
-                </div>
-                <div class="service-box">
-                    <div class="icon">
-                        <i class="flaticon-computer"></i>
-                    </div>
-                    <h4 class="title">
-                        <a href="service-details.html">Product <br> Development</a>
-                    </h4>
-                    <a href="service-details.html" class="service-link"><i class="fal fa-arrow-right"></i></a>
-                </div>
-                <div class="service-box">
-                    <div class="icon">
-                        <i class="flaticon-puzzle-piece"></i>
-                    </div>
-                    <h4 class="title">
-                        <a href="service-details.html">Game <br> Development</a>
-                    </h4>
-                    <a href="service-details.html" class="service-link"><i class="fal fa-arrow-right"></i></a>
-                </div>
-                <div class="service-box">
-                    <div class="icon">
-                        <i class="flaticon-globe"></i>
-                    </div>
-                    <h4 class="title">
-                        <a href="service-details.html">Search engine <br> optimization</a>
-                    </h4>
-                    <a href="service-details.html" class="service-link"><i class="fal fa-arrow-right"></i></a>
-                </div>
-                <div class="service-box">
-                    <div class="icon">
-                        <i class="flaticon-search-engine"></i>
-                    </div>
-                    <h4 class="title">
-                        <a href="service-details.html">Game design <br> Analytics</a>
-                    </h4>
-                    <a href="service-details.html" class="service-link"><i class="fal fa-arrow-right"></i></a>
-                </div>
-                <div class="service-box">
-                    <div class="icon">
-                        <i class="flaticon-statistics"></i>
-                    </div>
-                    <h4 class="title">
-                        <a href="service-details.html">Business <br> consultancy</a>
-                    </h4>
-                    <a href="service-details.html" class="service-link"><i class="fal fa-arrow-right"></i></a>
-                </div>
-                <div class="service-box">
-                    <div class="icon">
-                        <i class="flaticon-pie-chart"></i>
-                    </div>
-                    <h4 class="title">
-                        <a href="service-details.html">24/7 online <br> support</a>
-                    </h4>
-                    <a href="service-details.html" class="service-link"><i class="fal fa-arrow-right"></i></a>
-                </div>
-            </div>
-        </div>
-    </section>
+    <?php
+    services();
+    ?>
     <!--====== Service With Fact End ======-->
 
     <!--====== Process Section Start ======-->

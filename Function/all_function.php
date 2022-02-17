@@ -7,4 +7,6 @@ require 'banner.php';
 
 //footer
 require 'footer.php';
+// services
+require 'services.php';
 ?>
