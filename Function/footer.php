@@ -7,31 +7,26 @@ function footer(){
 				<div class="row">
 					<div class="col-lg-4 col-md-6">
 						<div class="widget text-block-widget">
-							<h4 class="widget-title">About Us.</h4>
+							<h4 class="widget-title">О НАС</h4>
 							<p>
-								Lorem ipsum dolor sit amet, consectetur adi
-								pisicing elit, sed do eiusmod tempor incidid
-								unt ut labore et dolore magna aliqua. Ut en
-								im ad minim veniam, quis nostrud exercit
-								ation ullamco laboris nisi ut aliquip ex ea
-								commodo consequat.
+                            Берем на себя все вопросы подготовки и получения ВНЖ, гражданства, виз в страны ЕС уже 7 лет. Работаем по договору, гарантия результата.
 							</p>
-							<a href="index.html#" class="read-more-btn">Read More</a>
+							<a href="about.php" class="read-more-btn" >Подробнее</a>
 						</div>
 					</div>
 					<div class="col-lg-2 col-md-6 col-sm-6">
 						<div class="widget menu-widget">
-							<h4 class="widget-title">Our Pages.</h4>
+							<h4 class="widget-title">страницы</h4>
 							<ul>
-								<li><a href="about.html">About Us</a></li>
-								<li><a href="blog.html">Latest Post</a></li>
-								<li><a href="index.html#">Selling Tips</a></li>
-								<li><a href="index.html#">Advertising</a></li>
-								<li><a href="index.html#">Contact Us</a></li>
+								<li><a href="index.php">ГЛАВНАЯ</a></li>
+								<li><a href="about.php">О НАС</a></li>
+								<li><a href="services.php">ПАСПОРТЫs</a></li>
+								<li><a href="contact.php">КОНТАКТЫ</a></li>
+								
 							</ul>
 						</div>
 					</div>
-					<div class="col-lg-2 col-md-6 col-sm-6">
+					<!-- <div class="col-lg-2 col-md-6 col-sm-6">
 						<div class="widget menu-widget">
 							<h4 class="widget-title">services.</h4>
 							<ul>
@@ -42,8 +37,8 @@ function footer(){
 								<li><a href="service-details.html">consultancy</a></li>
 							</ul>
 						</div>
-					</div>
-					<div class="col-lg-3 col-md-6 offset-lg-1">
+					</div> -->
+					<!-- <div class="col-lg-3 col-md-6 offset-lg-1">
 						<div class="widget newsletter-widget">
 							<h4 class="widget-title">Newsletter.</h4>
 							<form action="index.html#">
@@ -62,7 +57,7 @@ function footer(){
 								</div>
 							</form>
 						</div>
-					</div>
+					</div> -->
 				</div>
 			</div>
 		</div>
@@ -76,7 +71,7 @@ function footer(){
 					</div>
 					<div class="col-md-6 col-12">
 						<div class="copyright text-center text-md-right">
-							<p>Copyright ©2020. All Rights Reserved</p>
+							<p>Copyright ©2022. Все права защищены,Разработано <a href="https://www.artweb.md" style="font-size:20px">ArtWeb</a></p>
 						</div>
 					</div>
 				</div>
