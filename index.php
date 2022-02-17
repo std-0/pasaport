@@ -215,24 +215,23 @@ head("Pagina principala");
 	<!--====== Feature Section End ======-->
 
 	<!--====== Call to section Start ======-->
-	<section class="cta-section" style="background-image: url(assets/img/cta-bg.jpg);">
+	<section class="cta-section" style="background-image: url(assets/img/form.jpg);">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-10">
 					<div class="cta-text text-center ">
 						<div class="section-title white-color mb-40 wow fadeInLeft" data-wow-delay="400ms">
-							<span class="title-tag">call to action</span>
+							<span class="title-tag">Контакты</span>
 							<h2 class="title">
-								anything on your mind <span>let us know</span>
+							Ответим на ваши вопросы  <span>Свяжитесь с нами</span>
 							</h2>
 						</div>
 						<ul class="cta-btns">
 							<li class="wow fadeInLeft" data-wow-delay="400ms">
-								<a href="index.html#" class="main-btn"><span class="icon-left far fa-envelope"></span>mail us
-									now</a>
+								<a href="contact.php" class="main-btn"><span class="icon-left far fa-envelope"></span>НАПИШИТЕ НАМ СЕЙЧАС</a>
 							</li>
 							<li class="wow fadeInRight" data-wow-delay="400ms">
-								<a href="index.html#" class="main-btn main-btn-2">contact now <span class="icon">+</span></a>
+								<a href="contact.php" class="main-btn main-btn-2">СВЯЗАТЬСЯ СЕЙЧАС <span class="icon">+</span></a>
 							</li>
 						</ul>
 					</div>
