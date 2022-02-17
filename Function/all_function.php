@@ -3,5 +3,8 @@
 require 'header.php';
 
 //banner
-require 'banner.php'
+require 'banner.php';
+
+//footer
+require 'footer.php';
 ?>
