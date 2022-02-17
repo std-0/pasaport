@@ -29,6 +29,8 @@ function head($title){
 	<link rel="stylesheet" href="assets/css/slick.css" />
 	<!--====== Style css ======-->
 	<link rel="stylesheet" href="assets/css/style.css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	
 </head>
 
 <body>
@@ -59,7 +61,7 @@ function head($title){
 					<div class="menu-items">
 						<ul>
 							<li class="current">
-								<a href="index.html">ГЛАВНАЯ</a>
+								<a href="index.php">ГЛАВНАЯ</a>
 								<!-- <ul class="submenu">
 									<li><a href="index.html">Home One</a></li>
 									<li><a href="index-2.html">Home Two</a> </li>
@@ -82,7 +84,7 @@ function head($title){
 							</li>
 							<li><a href="about.php">О нас</a></li>
 							<li>
-								<a href="services.html">Паспорты</a>
+								<a href="services.php">Паспорты</a>
 									<!-- <ul class="submenu">
 										<li><a href="service-details.html">Service Details</a></li>
 									</ul> -->
@@ -109,7 +111,7 @@ function head($title){
 									<li><a href="blog-details.html">News Details</a></li>
 								</ul> 
 							</li> -->
-							<li><a href="contact.html">Контакты</a></li>
+							<li><a href="contact.php">Контакты</a></li>
 						</ul>
 					</div>
 
@@ -156,7 +158,7 @@ function head($title){
 					<div class="menu-items">
 						<ul>
 							<li class="current">
-								<a href="index.html">Главная</a>
+								<a href="index.php">Главная</a>
 								<!-- <ul class="submenu">
 									<li><a href="index.html">Home One</a></li>
 									<li><a href="index-2.html">Home Two</a> </li>
@@ -177,9 +179,9 @@ function head($title){
 									</li>
 								</ul> -->
 							</li>
-							<li><a href="about.html">о нас</a></li>
+							<li><a href="about.php">о нас</a></li>
 							<li>
-								<a href="services.html">Пасспорты</a>
+								<a href="services.php">Пасспорты</a>
 								<!-- <ul class="submenu">
 									<li><a href="service-details.html">Service Details</a></li>
 								</ul> -->
@@ -206,7 +208,7 @@ function head($title){
 									<li><a href="blog-details.html">News Details</a></li>
 								</ul> 
 							</li> -->
-							<li><a href="contact.html">Контакты</a></li>
+							<li><a href="contact.php">Контакты</a></li>
 						</ul>
 					</div>
 
