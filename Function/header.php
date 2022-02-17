@@ -80,7 +80,7 @@ function head($title){
 									</li>
 								</ul> -->
 							</li>
-							<li><a href="about.html">О нас</a></li>
+							<li><a href="about.php">О нас</a></li>
 							<li>
 								<a href="services.html">Паспорты</a>
 									<!-- <ul class="submenu">
