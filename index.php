@@ -232,7 +232,7 @@ head("Pagina principala");
 									now</a>
 							</li>
 							<li class="wow fadeInRight" data-wow-delay="400ms">
-								<a href="index.html#" class="main-btn main-btn-2">contact now <span class="icon">+</span></a>
+								<a href="index.html#" class="main-btn main-btn-2">СВЯЗАТЬСЯ СЕЙЧАС <span class="icon">+</span></a>
 							</li>
 						</ul>
 					</div>
