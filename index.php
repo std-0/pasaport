@@ -260,7 +260,7 @@ head("Pagina principala");
 	<!--====== Gallery End ======-->
 
 	<!--====== Portfolio start ======-->
-	<section class="portfolio-section section-gap" id="portfolio">
+	<!-- <section class="portfolio-section section-gap" id="portfolio">
 		<div class="container">
 			<div class="row align-items-center mb-80">
 				<div class="col-lg-4">
@@ -345,11 +345,11 @@ head("Pagina principala");
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	<!--====== Portfolio End ======-->
 
 	<!--====== Skill Section Start ======-->
-	<section class="skill-section" style="background-image: url(assets/img/pattern/01.jpg);">
+	<!-- <section class="skill-section" style="background-image: url(assets/img/pattern/01.jpg);">
 		<div class="container">
 			<div class="row skill-progress-bars white-bars">
 				<div class="col-lg-6 col-md-6">
@@ -406,11 +406,11 @@ head("Pagina principala");
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	<!--====== Skill Section End ======-->
 
 	<!--====== Team Section Start ======-->
-	<section class="team-section section-gap wow fadeInUp">
+	<!-- <section class="team-section section-gap wow fadeInUp">
 		<div class="container">
 			<div class="section-title text-center mb-50">
 				<span class="title-tag">Expert</span>
@@ -521,7 +521,7 @@ head("Pagina principala");
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	<!--====== Team Section End ======-->
 
 	
