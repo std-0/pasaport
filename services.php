@@ -89,66 +89,91 @@ head('Pagina principala');
                 </h2>
             </div>
             <div class="row pricing-boxes  justify-content-center">
-                <div class="col-lg-4 col-md-6 col-sm-10 wow fadeInLeft" data-wow-delay="400ms">
-                    <div class="pricing-box">
+            <div class="col-lg-4 col-md-6 col-sm-10 wow fadeInUp" data-wow-delay="500ms">
+                    <div class="pricing-box active-plan">
                         <div class="paln-title">
-                            <span>ПОДГОТОВКА ДОСЬЕ</span>
-                           
+                            <span>Подготовка Досье</span>
+                            
                         </div>
                         <div class="paln-desc">
                             <ul>
-                                <li><i class="fal fa-check"></i>Unlimited revisions</li>
-                                <li><i class="fal fa-check"></i>free ui/ux support</li>
-                                <li><i class="fal fa-check"></i>free support</li>
-                                <li><i class="fal fa-check"></i>100+ blocks development</li>
-                                <li><i class="fal fa-check"></i>seo optimization</li>
-                                <li><i class="fal fa-check"></i>24/7 online support</li>
+                                <li><i class="fal fa-check"></i>Наши специалисты БЕСПЛАТНО проконсультируют Вас, подробно рассказав о предстоящей процедуре, 
+                                на основании имеющихся у вас документов. Восстановим недостающие и утерянные бумаги. Подготовим Ваше досье, 
+                                переведем на румынский язык и нотариально заверим все необходимые документы.</li>
+                                
                             </ul>
-                            <a href="services.html#" class="main-btn main-btn-4">
-                                <span class="icon-left far fa-shopping-cart"></span>Purchase now
-                            </a>
+                            
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-10 wow fadeInUp" data-wow-delay="500ms">
                     <div class="pricing-box active-plan">
                         <div class="paln-title">
-                            <span>Advanced Plan</span>
-                            <span class="paln-price">59</span>
+                            <span>ПОДАЧА ДОКУМЕНТОВ</span>
+                            
                         </div>
                         <div class="paln-desc">
                             <ul>
-                                <li><i class="fal fa-check"></i>Unlimited revisions</li>
-                                <li><i class="fal fa-check"></i>free ui/ux support</li>
-                                <li><i class="fal fa-check"></i>free support</li>
-                                <li><i class="fal fa-check"></i>100+ blocks development</li>
-                                <li><i class="fal fa-check"></i>seo optimization</li>
-                                <li><i class="fal fa-check"></i>24/7 online support</li>
+                                <li><i class="fal fa-check"></i>Определив место для подачи документов (Бухарест / Сучава), и оказав помощь в оформлении визы, 
+                                мы сопроводим Вас в Министерство юстиции Румынии. От Вас потребуется только личное присутствие – все необходимые действия 
+                                будет курировать сопровождающий Вас юрист. Получив подтверждение о том, что ваше досье было принято чиновниками, Вы отправитесь домой, 
+                                ждать официального извещения о результатах Вашего дела.</li>
+                                
                             </ul>
-                            <a href="services.html#" class="main-btn main-btn-4">
-                                <span class="icon-left far fa-shopping-cart"></span>Purchase now
-                            </a>
+                            
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-10 wow fadeInRight" data-wow-delay="600ms">
-                    <div class="pricing-box">
+                <div class="col-lg-4 col-md-6 col-sm-10 wow fadeInUp" data-wow-delay="500ms">
+                    <div class="pricing-box active-plan">
                         <div class="paln-title">
-                            <span>Team Plan</span>
-                            <span class="paln-price">99</span>
+                            <span>ПРИКАЗ</span>
+                            
                         </div>
                         <div class="paln-desc">
                             <ul>
-                                <li><i class="fal fa-check"></i>Unlimited revisions</li>
-                                <li><i class="fal fa-check"></i>free ui/ux support</li>
-                                <li><i class="fal fa-check"></i>free support</li>
-                                <li><i class="fal fa-check"></i>100+ blocks development</li>
-                                <li><i class="fal fa-check"></i>seo optimization</li>
-                                <li><i class="fal fa-check"></i>24/7 online support</li>
+                                <li><i class="fal fa-check"></i>Большой поток соискателей стал причиной появления очереди, 
+                                из-за чего срок рассмотрения документов составляет 14 – 16 месяцев. По истечению этого времени, 
+                                на сайте Министерства юстиции Румынии появится приказ, об официальном решении восстановить Ваше гражданство.
+                                 Вслед за ним Вам вышлют дублирующее письмо, пригласив на присягу. Проверить выход приказа Вы сможете прямо на сайте
+                                  по персональному номеру.</li>
+                                
                             </ul>
-                            <a href="services.html#" class="main-btn main-btn-4">
-                                <span class="icon-left far fa-shopping-cart"></span>Purchase now
-                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-10 wow fadeInUp" data-wow-delay="500ms">
+                    <div class="pricing-box active-plan">
+                        <div class="paln-title">
+                            <span>ПРИСЯГА</span>
+                            
+                        </div>
+                        <div class="paln-desc">
+                            <ul>
+                                <li><i class="fal fa-check"></i>Принятие присяги – процедура, свидетельствующая о Вашей верности новоиспеченной второй родине.
+                                 Сдача проходит в Бухаресте, в групповом режиме, или по месту жительства (Санкт-Петербург / Москва / Ростов-на-Дону). Текст присяги,
+                                  свою автобиографию, а также правильное произношение, Вы выучите во время ожидания выхода приказа – в этом помогут наши квалифицированные репетиторы.</li>
+                                
+                            </ul>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-10 wow fadeInUp" data-wow-delay="500ms">
+                    <div class="pricing-box active-plan">
+                        <div class="paln-title">
+                            <span>ОФОРМЛЕНИЕ ВНУТРЕННИХ ДОКУМЕНТОВ</span>
+                            
+                        </div>
+                        <div class="paln-desc">
+                            <ul>
+                                <li><i class="fal fa-check"></i>На основе сертификата об успешном принятии присяги, оформляются все внутренние 
+                                документы – аналоги существующих русских, только румынского образца. Оформив свидетельства о рождении и браке, 
+                                вы получите долгожданный паспорт, и сможете использовать личные документы как полноправный гражданин ЕС!</li>
+                                
+                            </ul>
+                            
                         </div>
                     </div>
                 </div>
