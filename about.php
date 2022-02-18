@@ -20,7 +20,7 @@ head('Pagina principala');
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-6 col-md-10">
                     <div class="about-gallery">
-                        <div class="image-one" style="background-image: url(assets/img/about/02.png);">
+                        <div class="image-one" style="background-image: url(assets/img/about/02.jpg);">
                         </div>
                         <div class="image-two" style="background-image: url(assets/img/about/photo.png);">
                         </div>
@@ -32,21 +32,18 @@ head('Pagina principala');
                 <div class="col-lg-6 col-md-10">
                     <div class="about-text p-left">
                         <div class="section-title mb-30">
-                            <span class="title-tag">About us</span>
+                            <span class="title-tag">О Нас</span>
                             <h2 class="title">
-                                Get Amazing result <span>With solid team</span>
+                                Чем занимается  <span>Наша Компания</span>
                             </h2>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                                incididunt.
+                            Наша компания занимается предоставлением миграционных услуг.
                             </p>
                         </div>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm od tempor incididunt
-                            ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                            laboris.
+                        Дополнительные услуги: помощь в присяге, помощь в выборе недвижимости в ЕС, в подборе бизнеса при покупке в ЕС, а также в трудоустройстве.
                         </p>
-                        <div class="founder-info mt-40">
+                        <!-- <div class="founder-info mt-40">
                             <div>
                                 <img src="assets/img/about/founder.jpg" alt="Founder">
                             </div>
@@ -54,7 +51,7 @@ head('Pagina principala');
                                 <h3>Rosalina D. william</h3>
                                 <span>Founder</span>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -63,7 +60,7 @@ head('Pagina principala');
     <!--====== About Section End ======-->
 
     <!--====== Counter Start ======-->
-    <section class="counter-section counter-boxed-style">
+    <!-- <section class="counter-section counter-boxed-style">
         <div class="container">
             <div class="counter-boxed-innter">
                 <div class="row counter-boxes">
@@ -94,7 +91,7 @@ head('Pagina principala');
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!--====== Counter End ======-->
 
     <!--====== History Section Start ======-->
@@ -143,28 +140,32 @@ head('Pagina principala');
                                 <div class="timeline-images row align-items-center">
                                     <div class="col-lg-6 col-6">
                                         <div class="image text-right">
-                                            <img src="assets/img/timeline-1.jpg" alt="Timeline">
+                                            <img src="assets/img/pass.jpg" alt="Timeline">
                                         </div>
                                     </div>
                                     <div class="col-lg-6 col-6">
                                         <div class="image text-right">
-                                            <img src="assets/img/timeline-2.jpg" alt="Timeline">
+                                            <img src="assets/img/images01.jpg" alt="Timeline">
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-5 col-md-10 order-lg-first">
                                 <div class="timeline-text">
-                                    <span class="timeline-tag">2005 - Get rewards</span>
+                                   
                                     <h2 class="timeline-title">
-                                        We just recived an from drem co.
+                                    ГРАЖДАНСТВО РУМЫНИИ
                                     </h2>
+                                    
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
+                                   <b> ЕДИНСТВЕННЫЙ ДОСТУПНЫЙ И БЫСТРЫЙ ВАРИАНТ СТАТЬ ГРАЖДАНИНОМ ЕВРОСОЮЗА</b> <br>
+                                    Жить, работать и учиться в Европе – желание огромного количества российских граждан.
+                                     Каждый выбирает свой путь: перенести бизнес в страну ЕС с оптимальными для этого условиями и законодательной базой, 
+                                     инвестировать сотни тысяч долларов в недвижимость, рискнуть, заключив фиктивный брак.
+                                      Все эти варианты имеют два весомых недостатка: для достижения своей цели потребуется от 7 до 10 лет, 
+                                      и огромные финансовые вложения.
                                     </p>
-                                    <a href="about.html#" class="main-btn">Get Appointment</a>
+                                    
                                 </div>
                             </div>
                         </div>
