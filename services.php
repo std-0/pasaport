@@ -223,6 +223,11 @@ head('Pagina principala');
     </section>
     <!--====== Skill Section End ======-->
 
+    //sectia noua 
+    <?php
+    benefits();
+
+    ?>
     <!--====== Footer area start ======-->
     <?php
 	footer();
