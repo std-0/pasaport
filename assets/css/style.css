@@ -5589,6 +5589,7 @@ h4 a{
 	background-color: #fff;
 	border-bottom-left-radius: 5px;
 	border-bottom-right-radius: 5px;
+	min-height: 175px;
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
