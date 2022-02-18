@@ -4,7 +4,7 @@ head('Pagina principala');
 ?>
 
     <!--====== Breadcrumb Start ======-->
-    <section class="breadcrumb-section" style="background-image: url(assets/img/breadcrumb.jpg);">
+    <section class="breadcrumb-section" style="background-image: url(assets/img/x2.jpg);">
         <div class="container">
             <span class="page-tag">Welcome to our company</span>
             <h1 class="page-title">About us</h1>
