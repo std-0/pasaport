@@ -9,60 +9,41 @@ function testimonials(){
                 <div class="testimonials-slider">
                     <div class="single-testimonial">
                         <div class="atuthor-thumb">
-                            <img src="assets/img/testimonial/testimonial-author-01.jpg" alt="Image">
+                            <img src="assets/img/user.svg" alt="Image">
                         </div>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                            ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                            laboris nisi ut aliquip ex ea commodo consequat dolor in reprehenderit in voluptate.
+                        Благодарю сотрудников компании за профессионализм и дотошность в деталях, высокий сервис и готовность помочь буквально во всех вопросах, которые возникали в процессе.
                         </p>
                         <div class="atuthor-info">
-                            <h3 class="name">Rosalina D. william</h3>
-                            <span>Founder</span>
+                            <h3 class="name">Галина</h3>
+                            <span>пенсионерка</span>
                         </div>
                     </div>
                     <div class="single-testimonial">
                         <div class="atuthor-thumb">
-                            <img src="assets/img/testimonial/testimonial-author-02.jpg" alt="Image">
+                            <img src="assets/img/user.svg" alt="Image">
                         </div>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                            ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                            laboris nisi ut aliquip ex ea commodo consequat dolor in reprehenderit in voluptate.
+                        Огромное спасибо за проделанную работу, всегда отвечавшие на все мои вопросы, которые возникали просто постоянно. А когда пришло время подачи документов, сопровождали меня буквально до консула.
                         </p>
                         <div class="atuthor-info">
-                            <h3 class="name">Rosalina D. william</h3>
-                            <span>Founder</span>
+                            <h3 class="name">Антон</h3>
+                            <span>предприниматель</span>
                         </div>
                     </div>
                     <div class="single-testimonial">
                         <div class="atuthor-thumb">
-                            <img src="assets/img/testimonial/testimonial-author-01.jpg" alt="Image">
+                            <img src="assets/img/user.svg" alt="Image">
                         </div>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                            ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                            laboris nisi ut aliquip ex ea commodo consequat dolor in reprehenderit in voluptate.
+                        О компании узнала от сына - когда-то он воспользовался её услугами, чтобы переехать в Италию к своей невесте. В конце концов и я решилась перебраться к сыну, ведь внуки уже на подходе!
                         </p>
                         <div class="atuthor-info">
-                            <h3 class="name">Rosalina D. william</h3>
-                            <span>Founder</span>
+                            <h3 class="name">Алена Блакита</h3>
+                            
                         </div>
                     </div>
-                    <div class="single-testimonial">
-                        <div class="atuthor-thumb">
-                            <img src="assets/img/testimonial/testimonial-author-02.jpg" alt="Image">
-                        </div>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                            ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                            laboris nisi ut aliquip ex ea commodo consequat dolor in reprehenderit in voluptate.
-                        </p>
-                        <div class="atuthor-info">
-                            <h3 class="name">Rosalina D. william</h3>
-                            <span>Founder</span>
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
         </div>
