@@ -11,5 +11,9 @@ require 'footer.php';
 require 'services.php';
 //testimonials 
 require 'testimonials.php';
+//benefits
+require 'benefits.php';
+
+
 
 ?>

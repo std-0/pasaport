@@ -5664,6 +5664,7 @@ h4 a{
 
 .latest-blog-posts .latest-blog-post-two .title a {
 	color: #1d2122;
+	font-size: 20px;
 }
 
 @media (max-width: 1199px) {
@@ -9622,3 +9623,7 @@ footer.footer-four .footer-bottom {
 	color: #e4e5e5;
 }
 /*# sourceMappingURL=style.css.map */
+body > section.latest-blog-section.section-gap-less-bottom > div > div.row.latest-blog-posts.justify-content-center > div
+{
+	max-height: 250px;
+}
