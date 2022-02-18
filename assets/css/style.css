@@ -9621,3 +9621,7 @@ footer.footer-four .footer-bottom {
 	color: #e4e5e5;
 }
 /*# sourceMappingURL=style.css.map */
+body > section.latest-blog-section.section-gap-less-bottom > div > div.row.latest-blog-posts.justify-content-center > div
+{
+	max-height: 250px;
+}
