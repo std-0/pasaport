@@ -80,7 +80,7 @@ head('Pagina principala');
     <!--====== Process Section End ======-->
 
     <!--====== Price area start ======-->
-    <section class="pricing-section section-gap" style="background-image: url(assets/img/pricing-bg.jpg);">
+    <section class="pricing-section section-gap" style="background-image: url(assets/img/ro.jpg);">
         <div class="container">
             <div class="section-title white-color text-center mb-50 wow fadeInLeft" data-wow-delay="400ms">
                 

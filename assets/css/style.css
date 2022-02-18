@@ -5722,12 +5722,13 @@ h4 a{
 
 .pricing-section .pricing-box {
 	margin-top: 30px;
-	padding: 60px 50px;
+	padding: 20px 30px;
 	border: solid rgba(255, 255, 255, 0.1);
 	font-weight: 700;
 	font-family: "Rajdhani", sans-serif;
 	-webkit-transition: all 0.3s ease-out 0s;
 	transition: all 0.3s ease-out 0s;
+	min-height: 480px;
 }
 
 @media (max-width: 1199px) {
@@ -5737,8 +5738,8 @@ h4 a{
 }
 
 .pricing-section .pricing-box .paln-title {
-	padding-bottom: 35px;
-	margin-bottom: 45px;
+	padding-bottom: 30px;
+	margin-bottom: 22px;
 	font-size: 14px;
 	color: #fff;
 	text-align: center;
