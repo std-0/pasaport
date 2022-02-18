@@ -6,13 +6,10 @@ head('Pagina principala');
     <!--====== Breadcrumb Start ======-->
     <section class="breadcrumb-section" style="background-image: url(assets/img/x2.jpg);">
         <div class="container">
-            <span class="page-tag">Welcome to our company</span>
-            <h1 class="page-title">About us</h1>
+            <span class="page-tag">Добро Пожаловать!</span>
+            <h1 class="page-title">О Нас</h1>
 
-            <ul class="breadcrumb-nav">
-                <li><a href="about.html#">Home</a></li>
-                <li>About us</li>
-            </ul>
+            
         </div>
     </section>
     <!--====== Breadcrumb end ======-->
@@ -23,11 +20,11 @@ head('Pagina principala');
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-6 col-md-10">
                     <div class="about-gallery">
-                        <div class="image-one" style="background-image: url(assets/img/about/about-gallery-1.jpg);">
+                        <div class="image-one" style="background-image: url(assets/img/about/02.png);">
                         </div>
-                        <div class="image-two" style="background-image: url(assets/img/about/about-gallery-2.jpg);">
+                        <div class="image-two" style="background-image: url(assets/img/about/photo.png);">
                         </div>
-                        <div class="image-three" style="background-image: url(assets/img/about/about-gallery-3.jpg);">
+                        <div class="image-three" style="background-image: url(assets/img/about/buletin.jpg);">
                         </div>
                     </div>
                 </div>
