@@ -17,7 +17,7 @@ function banner(){
                             <h1 class="title" data-animation="fadeInUp" data-delay="0.6s">ГРАЖДАНСТВО РУМЫНИИ
                                 
                             <ul class="banner-btns">
-                                <li data-animation="fadeInLeft" data-delay="0.9s"><a href="services.html" class="main-btn">
+                                <li data-animation="fadeInLeft" data-delay="0.9s"><a href="services.php" class="main-btn">
                                     Наши Услуги <span class="icon">+</span></a></li>
                                 <!-- <li data-animation="fadeInRight" data-delay="1.2s">
                                     <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ&feature=youtu.be"
@@ -42,7 +42,7 @@ function banner(){
                             <h1 class="title" data-animation="fadeInUp" data-delay="0.6s">Digital Agency
                                 <span>Solutions</span></h1>
                             <ul class="banner-btns">
-                                <li data-animation="fadeInLeft" data-delay="0.9s"><a href="index.html#" class="main-btn">Our
+                                <li data-animation="fadeInLeft" data-delay="0.9s"><a href="services.php" class="main-btn">Our
                                         Services <span class="icon">+</span></a></li>
                                 <!-- <li data-animation="fadeInRight" data-delay="1.2s">
                                     <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ&feature=youtu.be"

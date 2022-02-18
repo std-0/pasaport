@@ -9,4 +9,7 @@ require 'banner.php';
 require 'footer.php';
 // services
 require 'services.php';
+//testimonials 
+require 'testimonials.php';
+
 ?>

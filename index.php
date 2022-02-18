@@ -436,8 +436,10 @@ head("Pagina principala");
 		</div>
 	</section> -->
 	<!--====== Team Section End ======-->
-
-	
+<br>
+	<?php
+	testimonials();
+	?>
 
 	<!--====== Footer area start ======-->
 	<?php
