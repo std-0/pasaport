@@ -182,73 +182,45 @@ head('Pagina principala');
     </section>
     <!--====== Price area End ======-->
 
-    <!--====== Skill Section Start ======-->
-    <section class="skill-section-three section-gap-top">
-        <div class="container">
-            <div class="row align-items-center justify-content-center justify-content-lg-between">
-                <div class="col-lg-6 col-md-10 order-lg-last wow fadeInRight">
-                    <div class="skills-img">
-                        <img src="assets/img/skills/02.jpg" alt="Image">
-                    </div>
-                </div>
-                <div class="col-lg-5 col-md-10 order-lg-first wow fadeInLeft">
-                    <div class="section-title mb-50">
-                        <span class="title-tag">skillset</span>
-                        <h2 class="title">Our Skills</h2>
-                    </div>
-                    <div class="skill-progress-bars">
-                        <div class="skill-progress" data-count="73">
-                            <div class="title">
-                                <span>Graphic design</span>
-                                <span class="progress-counter"><span class="count">73</span>%</span>
-                            </div>
-                            <div class="progressbar-wrap">
-                                <div class="progressbar">
-                                </div>
-                                <div class="progressbarV"></div>
-                            </div>
-                        </div>
-                        <div class="skill-progress" data-count="80">
-                            <div class="title">
-                                <span>Game design</span>
-                                <span class="progress-counter"><span class="count">80</span>%</span>
-                            </div>
-                            <div class="progressbar-wrap">
-                                <div class="progressbar">
-                                </div>
-                                <div class="progressbarV"></div>
-                            </div>
-                        </div>
-                        <div class="skill-progress" data-count="75">
-                            <div class="title">
-                                <span>App Development</span>
-                                <span class="progress-counter"><span class="count">75</span>%</span>
-                            </div>
-                            <div class="progressbar-wrap">
-                                <div class="progressbar">
-                                </div>
-                                <div class="progressbarV"></div>
-                            </div>
-                        </div>
-                        <div class="skill-progress" data-count="85">
-                            <div class="title">
-                                <span>Web Development</span>
-                                <span class="progress-counter"><span class="count">85</span>%</span>
-                            </div>
-                            <div class="progressbar-wrap">
-                                <div class="progressbar">
-                                </div>
-                                <div class="progressbarV"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--====== Skill Section End ======-->
+    
+    <section class="about-section section-gap">
+		<div class="container">
+			<div class="row justify-content-lg-between align-items-center justify-content-center">
+				<div class="col-lg-5 col-md-8">
+					<div class="about-tag-img wow fadeInLeft">
+						<img src="assets/img/about/photo.png" alt="Image">
+						<div class="experience-tag">
+							<div>
+								<span class="big">5</span>
+								Лет Опыта
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-6 col-md-10">
+					<div class="about-text p-left wow fadeInRight">
+						<div class="section-title mb-30">
+							<span class="title-tag">О Нас</span>
+							<h2 class="title">
+							ПЕРЕЧЕНЬ ДОКУМЕНТОВ ДЛЯ ПОЛУЧЕНИЯ ГРАЖДАНСТВА <span>ВЫ ПОЛУЧИТЕ:</span>
+							</h2>
+							
+						</div>
+						
+						<ul class="mt-40">
+							<li><span>---</span>Ваши паспорта</li>
+							<li><span>---</span> Ваши свидетельства</li>
+							<li><span>---</span> Свидетельства Ваших родителей</li>
+							<li><span>---</span> Заявлениеь</li>
+							<li><span>---</span> Высокие социальные стандарты</li>
+						</ul>
+						<a href="about.php" class="main-btn main-btn-2 mt-30">Узнать Больше<span class="icon">+</span></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
 
-    //sectia noua 
     <?php
     benefits();
 

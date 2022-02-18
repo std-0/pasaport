@@ -13,43 +13,7 @@ head('Pagina principala');
         </div>
     </section>
     <!--====== Breadcrumb end ======-->
-    <section class="about-section section-gap">
-		<div class="container">
-			<div class="row justify-content-lg-between align-items-center justify-content-center">
-				<div class="col-lg-5 col-md-8">
-					<div class="about-tag-img wow fadeInLeft">
-						<img src="assets/img/about/photo.png" alt="Image">
-						<div class="experience-tag">
-							<div>
-								<span class="big">5</span>
-								Лет Опыта
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-6 col-md-10">
-					<div class="about-text p-left wow fadeInRight">
-						<div class="section-title mb-30">
-							<span class="title-tag">О Нас</span>
-							<h2 class="title">
-							ПЕРЕЧЕНЬ ДОКУМЕНТОВ ДЛЯ ПОЛУЧЕНИЯ ГРАЖДАНСТВА <span>ВЫ ПОЛУЧИТЕ:</span>
-							</h2>
-							
-						</div>
-						
-						<ul class="mt-40">
-							<li><span>---</span>Ваши паспорта</li>
-							<li><span>---</span> Ваши свидетельства</li>
-							<li><span>---</span> Свидетельства Ваших родителей</li>
-							<li><span>---</span> Заявлениеь</li>
-							<li><span>---</span> Высокие социальные стандарты</li>
-						</ul>
-						<a href="about.php" class="main-btn main-btn-2 mt-30">Узнать Больше<span class="icon">+</span></a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
+   
     <!--====== About Section Start ======-->
     <section class="about-section section-gap">
         <div class="container">
