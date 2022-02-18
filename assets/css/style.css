@@ -2457,7 +2457,7 @@ h4 a{
 }
 .about-text ul li {
 	/* width: 40%; */
-	float: left;
+	/* float: left; */
 	font-weight: 700;
 	font-family: "Rajdhani", sans-serif;
 	text-transform: uppercase;
