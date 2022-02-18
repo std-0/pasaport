@@ -1708,6 +1708,7 @@ header.sticky-header.sticky-on.header-five .header-nav > .contact-btn {
 	content: "";
 	background-color: #1d2122;
 	opacity: 0.6;
+	max-height: 1200px;
 }
 
 .banner-section .single-banner .banner-text {
