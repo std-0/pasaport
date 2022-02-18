@@ -17,8 +17,13 @@ function banner(){
                             <h1 class="title" data-animation="fadeInUp" data-delay="0.6s">ГРАЖДАНСТВО РУМЫНИИ
                                 
                             <ul class="banner-btns">
+<<<<<<< HEAD
                                 <li data-animation="fadeInLeft" data-delay="0.9s"><a href="services.html" class="main-btn">
                                     Наши Услуги </a></li>
+=======
+                                <li data-animation="fadeInLeft" data-delay="0.9s"><a href="services.php" class="main-btn">
+                                    Наши Услуги <span class="icon">+</span></a></li>
+>>>>>>> ca8127aa92dce6fb72aca214c1023d5fe7a390a2
                                 <!-- <li data-animation="fadeInRight" data-delay="1.2s">
                                     <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ&feature=youtu.be"
                                         class="video-btn popup-video"><i class="fas fa-play"></i></a>
@@ -43,7 +48,12 @@ function banner(){
                             <h1 class="title" data-animation="fadeInUp" data-delay="0.6s"> <span>Как Получить</span> Гражданство Румынии
                                 <span>пошаговая процедура :</span></h1>
                             <ul class="banner-btns">
+<<<<<<< HEAD
                                 <li data-animation="fadeInLeft" data-delay="0.9s"><a href="index.html#" class="main-btn">Наши Услуги </a></li>
+=======
+                                <li data-animation="fadeInLeft" data-delay="0.9s"><a href="services.php" class="main-btn">Our
+                                        Services <span class="icon">+</span></a></li>
+>>>>>>> ca8127aa92dce6fb72aca214c1023d5fe7a390a2
                                 <!-- <li data-animation="fadeInRight" data-delay="1.2s">
                                     <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ&feature=youtu.be"
                                         class="video-btn popup-video"><i class="fas fa-play"></i></a>

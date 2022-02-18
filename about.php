@@ -102,7 +102,7 @@ head('Pagina principala');
 
     <!--====== History Section Start ======-->
     <section class="history-section grey-bg">
-        <div class="container">
+        <!-- <div class="container">
             <div class="section-title text-center mb-80">
                 <span class="title-tag">History</span>
                 <h2 class="title">our journey</h2>
@@ -137,7 +137,7 @@ head('Pagina principala');
                         </li>
                     </ul>
                 </div>
-            </div>
+            </div> -->
             <div class="container">
                 <div class="tab-content">
                     <div role="tabpanel" class="tab-pane fade in active show" id="tab-1">
@@ -339,7 +339,7 @@ head('Pagina principala');
     <!--====== History Section End ======-->
 
     <!--====== Team Section Start ======-->
-    <section class="team-section section-gap">
+    <!-- <section class="team-section section-gap">
         <div class="container">
             <div class="section-title text-center mb-50">
                 <span class="title-tag">Expert</span>
@@ -450,74 +450,13 @@ head('Pagina principala');
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!--====== Team Section End ======-->
 
     <!--====== Testimonials Start ======-->
-    <section class="testimonials-section">
-        <div class="container">
-            <div class="testimonials-inner">
-                <div class="testimonials-slider">
-                    <div class="single-testimonial">
-                        <div class="atuthor-thumb">
-                            <img src="assets/img/testimonial/testimonial-author-01.jpg" alt="Image">
-                        </div>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                            ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                            laboris nisi ut aliquip ex ea commodo consequat dolor in reprehenderit in voluptate.
-                        </p>
-                        <div class="atuthor-info">
-                            <h3 class="name">Rosalina D. william</h3>
-                            <span>Founder</span>
-                        </div>
-                    </div>
-                    <div class="single-testimonial">
-                        <div class="atuthor-thumb">
-                            <img src="assets/img/testimonial/testimonial-author-02.jpg" alt="Image">
-                        </div>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                            ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                            laboris nisi ut aliquip ex ea commodo consequat dolor in reprehenderit in voluptate.
-                        </p>
-                        <div class="atuthor-info">
-                            <h3 class="name">Rosalina D. william</h3>
-                            <span>Founder</span>
-                        </div>
-                    </div>
-                    <div class="single-testimonial">
-                        <div class="atuthor-thumb">
-                            <img src="assets/img/testimonial/testimonial-author-01.jpg" alt="Image">
-                        </div>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                            ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                            laboris nisi ut aliquip ex ea commodo consequat dolor in reprehenderit in voluptate.
-                        </p>
-                        <div class="atuthor-info">
-                            <h3 class="name">Rosalina D. william</h3>
-                            <span>Founder</span>
-                        </div>
-                    </div>
-                    <div class="single-testimonial">
-                        <div class="atuthor-thumb">
-                            <img src="assets/img/testimonial/testimonial-author-02.jpg" alt="Image">
-                        </div>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                            ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                            laboris nisi ut aliquip ex ea commodo consequat dolor in reprehenderit in voluptate.
-                        </p>
-                        <div class="atuthor-info">
-                            <h3 class="name">Rosalina D. william</h3>
-                            <span>Founder</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    <?
+    testimonials();
+    ?>
     <!--====== Testimonials End ======-->
 
     <!--====== Footer area start ======-->
