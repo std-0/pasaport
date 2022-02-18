@@ -170,164 +170,7 @@ head('Pagina principala');
                             </div>
                         </div>
                     </div>
-                    <div role="tabpanel" class="tab-pane fade" id="tab-2">
-                        <div class="row align-items-center justify-content-center">
-                            <div class="col-lg-7 col-md-10 order-lg-last">
-                                <div class="timeline-images row align-items-center">
-                                    <div class="col-lg-6 col-6">
-                                        <div class="image text-right">
-                                            <img src="assets/img/timeline-1.jpg" alt="Timeline">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-6">
-                                        <div class="image text-right">
-                                            <img src="assets/img/timeline-2.jpg" alt="Timeline">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-5 col-md-10 order-lg-first">
-                                <div class="timeline-text">
-                                    <span class="timeline-tag">2005 - Get rewards</span>
-                                    <h2 class="timeline-title">
-                                        We just recived an from drem co.
-                                    </h2>
-                                    <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
-                                    </p>
-                                    <a href="about.html#" class="main-btn">Get Appointment</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div role="tabpanel" class="tab-pane fade" id="tab-3">
-                        <div class="row align-items-center justify-content-center">
-                            <div class="col-lg-7 col-md-10 order-lg-last">
-                                <div class="timeline-images row align-items-center">
-                                    <div class="col-lg-6 col-6">
-                                        <div class="image text-right">
-                                            <img src="assets/img/timeline-1.jpg" alt="Timeline">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-6">
-                                        <div class="image text-right">
-                                            <img src="assets/img/timeline-2.jpg" alt="Timeline">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-5 col-md-10 order-lg-first">
-                                <div class="timeline-text">
-                                    <span class="timeline-tag">2005 - Get rewards</span>
-                                    <h2 class="timeline-title">
-                                        We just recived an from drem co.
-                                    </h2>
-                                    <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
-                                    </p>
-                                    <a href="about.html#" class="main-btn">Get Appointment</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div role="tabpanel" class="tab-pane fade" id="tab-4">
-                        <div class="row align-items-center justify-content-center">
-                            <div class="col-lg-7 col-md-10 order-lg-last">
-                                <div class="timeline-images row align-items-center">
-                                    <div class="col-lg-6 col-6">
-                                        <div class="image text-right">
-                                            <img src="assets/img/timeline-1.jpg" alt="Timeline">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-6">
-                                        <div class="image text-right">
-                                            <img src="assets/img/timeline-2.jpg" alt="Timeline">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-5 col-md-10 order-lg-first">
-                                <div class="timeline-text">
-                                    <span class="timeline-tag">2005 - Get rewards</span>
-                                    <h2 class="timeline-title">
-                                        We just recived an from drem co.
-                                    </h2>
-                                    <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
-                                    </p>
-                                    <a href="about.html#" class="main-btn">Get Appointment</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div role="tabpanel" class="tab-pane fade" id="tab-5">
-                        <div class="row align-items-center justify-content-center">
-                            <div class="col-lg-7 col-md-10 order-lg-last">
-                                <div class="timeline-images row align-items-center">
-                                    <div class="col-lg-6 col-6">
-                                        <div class="image text-right">
-                                            <img src="assets/img/timeline-1.jpg" alt="Timeline">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-6">
-                                        <div class="image text-right">
-                                            <img src="assets/img/timeline-2.jpg" alt="Timeline">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-5 col-md-10 order-lg-first">
-                                <div class="timeline-text">
-                                    <span class="timeline-tag">2005 - Get rewards</span>
-                                    <h2 class="timeline-title">
-                                        We just recived an from drem co.
-                                    </h2>
-                                    <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
-                                    </p>
-                                    <a href="about.html#" class="main-btn">Get Appointment</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div role="tabpanel" class="tab-pane fade" id="tab-6">
-                        <div class="row align-items-center justify-content-center">
-                            <div class="col-lg-7 col-md-10 order-lg-last">
-                                <div class="timeline-images row align-items-center">
-                                    <div class="col-lg-6 col-6">
-                                        <div class="image text-right">
-                                            <img src="assets/img/timeline-1.jpg" alt="Timeline">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-6">
-                                        <div class="image text-right">
-                                            <img src="assets/img/timeline-2.jpg" alt="Timeline">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-5 col-md-10 order-lg-first">
-                                <div class="timeline-text">
-                                    <span class="timeline-tag">2005 - Get rewards</span>
-                                    <h2 class="timeline-title">
-                                        We just recived an from drem co.
-                                    </h2>
-                                    <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
-                                    </p>
-                                    <a href="about.html#" class="main-btn">Get Appointment</a>
-                                </div>
-                            </div>
+                    
                         </div>
                     </div>
                 </div>
@@ -335,7 +178,75 @@ head('Pagina principala');
         </div>
     </section>
     <!--====== History Section End ======-->
-
+    <section class="feature-section section-gap ">
+		<div class="container">
+			<div class="row justify-content-center align-items-center">
+				<div class="col-lg-6 col-md-10 order-2 order-lg-1">
+					<div class="feature-text">
+						<div class="section-title mb-40 wow fadeInLeft" data-wow-delay="300ms">
+							<span class="title-tag">О Нас</span>
+							<h2 class="title">
+							ПРЕИМУЩЕСТВА РАБОТЫ С НАМИ 
+							</h2>
+							
+						</div>
+						<ul class="feature-lists">
+							<li class="wow fadeInUp" data-wow-delay="300ms">
+								<div class="icon color-1">
+								<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-clipboard-check" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M10.854 7.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7.5 9.793l2.646-2.647a.5.5 0 0 1 .708 0z"/>
+                                <path d="M4 1.5H3a2 2 0 0 0-2 2V14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V3.5a2 2 0 0 0-2-2h-1v1h1a1 1 0 0 1 1 1V14a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V3.5a1 1 0 0 1 1-1h1v-1z"/>
+                                <path d="M9.5 1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5h3zm-3-1A1.5 1.5 0 0 0 5 1.5v1A1.5 1.5 0 0 0 6.5 4h3A1.5 1.5 0 0 0 11 2.5v-1A1.5 1.5 0 0 0 9.5 0h-3z"/>
+                                </svg>
+								</div>
+								<div class="desc">
+									<h5>ЛЕГКО</h5>
+									<p>
+									Профессиональная юридическая помощь и сопровождение
+									</p>
+								</div>
+							</li>
+							<li class="wow fadeInUp" data-wow-delay="400ms">
+								<div class="icon color-2">
+								<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check2-square" viewBox="0 0 16 16">
+                                <path d="M3 14.5A1.5 1.5 0 0 1 1.5 13V3A1.5 1.5 0 0 1 3 1.5h8a.5.5 0 0 1 0 1H3a.5.5 0 0 0-.5.5v10a.5.5 0 0 0 .5.5h10a.5.5 0 0 0 .5-.5V8a.5.5 0 0 1 1 0v5a1.5 1.5 0 0 1-1.5 1.5H3z"/>
+                                <path d="m8.354 10.354 7-7a.5.5 0 0 0-.708-.708L8 9.293 5.354 6.646a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0z"/>
+                                </svg>
+								</div>
+								<div class="desc">
+									<h5>ЗАКОННО</h5>
+									<p>
+									Оформление паспорта ЕС согласно румынскому законодательству
+									</p>
+								</div>
+							</li>
+							<li class="wow fadeInUp" data-wow-delay="300ms">
+								<div class="icon color-1">
+								<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-clipboard-check" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M10.854 7.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7.5 9.793l2.646-2.647a.5.5 0 0 1 .708 0z"/>
+                                <path d="M4 1.5H3a2 2 0 0 0-2 2V14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V3.5a2 2 0 0 0-2-2h-1v1h1a1 1 0 0 1 1 1V14a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V3.5a1 1 0 0 1 1-1h1v-1z"/>
+                                <path d="M9.5 1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5h3zm-3-1A1.5 1.5 0 0 0 5 1.5v1A1.5 1.5 0 0 0 6.5 4h3A1.5 1.5 0 0 0 11 2.5v-1A1.5 1.5 0 0 0 9.5 0h-3z"/>
+                                </svg>
+								</div>
+								<div class="desc">
+									<h5>БЫСТРО</h5>
+									<p>
+									Получение гражданства Евросоюза от 12 месяцев
+									</p>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-6 col-md-10 order-1 order-lg-2">
+					<div class="feature-gallery">
+						<img src="assets/img/feature/pasport-romania.jpg" alt="Image" class="wow fadeInRight" data-wow-delay="400ms">
+						<img src="assets/img/feature/untitled-1.png" alt="Image" class="wow fadeInRight" data-wow-delay="500ms">
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
     <!--====== Team Section Start ======-->
     <!-- <section class="team-section section-gap">
         <div class="container">
