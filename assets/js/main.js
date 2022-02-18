@@ -147,8 +147,8 @@
 			fade: false,
 			dots: false,
 			swipe: true,
-			nextArrow: '<button class="slick-arrow next-arrow">Next</button>',
-			prevArrow: '<button class="slick-arrow prev-arrow">Prev</button>',
+			nextArrow: '<button class="slick-arrow next-arrow">След.</button>',
+			prevArrow: '<button class="slick-arrow prev-arrow">Пред.</button>',
 			responsive: [{
 				breakpoint: 768,
 				settings: {

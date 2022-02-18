@@ -6,8 +6,8 @@ head('Pagina principala');
     <!--====== Breadcrumb Start ======-->
     <section class="breadcrumb-section" style="background-image: url(assets/img/breadcrumb.jpg);">
         <div class="container">
-            <span class="page-tag">Welcome to our company</span>
-            <h1 class="page-title">Our Services</h1>
+            <span class="page-tag">Оформление </span>
+            <h1 class="page-title">румынского Паспорта</h1>
 
             <ul class="breadcrumb-nav">
                 <li><a href="services.html#">Home</a></li>
