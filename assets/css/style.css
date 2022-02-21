@@ -6376,7 +6376,7 @@ h4 a{
 
 @media (max-width: 767px) {
 	.breadcrumb-section .page-title {
-		font-size: 42px;
+		font-size: 42px!important;
 	}
 }
 
@@ -9628,4 +9628,10 @@ footer.footer-four .footer-bottom {
 body > section.latest-blog-section.section-gap-less-bottom > div > div.row.latest-blog-posts.justify-content-center > div
 {
 	max-height: 250px;
+}
+
+.services_services
+{
+	max-height: 200px;
+	padding: 12px 40px!important;
 }

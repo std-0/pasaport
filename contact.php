@@ -7,7 +7,7 @@ head("pagina principala")
     <section class="breadcrumb-section" style="background-image: url(assets/img/banner/baner01.jpg);">
         <div class="container">
             <span class="page-tag" style="font-style:capitalize">румынские паспорты</span>
-            <h1 class="page-title" style="font-size:80px;">СВЯЗАТЬСЯ С НАМИ</h1>
+            <h1 class="page-title small_text" style="font-size:80px;">СВЯЗАТЬСЯ С НАМИ</h1>
 
             <!-- <ul class="breadcrumb-nav">
                 <li><a href="contact.html#">Home</a></li>
