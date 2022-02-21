@@ -54,7 +54,7 @@ function head($title){
 				<div class="nav-container">
 					<!-- Site Logo -->
 					<div class="site-logo">
-						<a href="index.php"><img src="assets/img/logo.png" alt="Logo"></a>
+						<a href="index.php"><img src="assets/img/logotipa.png" alt="Logo"></a>
 					</div>
 
 					<!-- Menu Items -->

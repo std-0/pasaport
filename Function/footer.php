@@ -34,7 +34,7 @@ function footer(){
 				<div class="row align-items-center justify-content-between">
 					<div class="col-md-6 col-12">
 						<div class="footer-logo text-center text-md-left">
-							<img src="assets/img/logo.png" alt="Yankee">
+							<img src="assets/img/logotipa.png" alt="Yankee">
 						</div>
 					</div>
 					<div class="col-md-6 col-12">
