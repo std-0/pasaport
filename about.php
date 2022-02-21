@@ -43,15 +43,7 @@ head('Pagina principala');
                         <p>
                         Дополнительные услуги: помощь в присяге, помощь в выборе недвижимости в ЕС, в подборе бизнеса при покупке в ЕС, а также в трудоустройстве.
                         </p>
-                        <!-- <div class="founder-info mt-40">
-                            <div>
-                                <img src="assets/img/about/founder.jpg" alt="Founder">
-                            </div>
-                            <div>
-                                <h3>Rosalina D. william</h3>
-                                <span>Founder</span>
-                            </div>
-                        </div> -->
+                      
                     </div>
                 </div>
             </div>
@@ -59,79 +51,11 @@ head('Pagina principala');
     </section>
     <!--====== About Section End ======-->
 
-    <!--====== Counter Start ======-->
-    <!-- <section class="counter-section counter-boxed-style">
-        <div class="container">
-            <div class="counter-boxed-innter">
-                <div class="row counter-boxes">
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="counter-box white-style text-center">
-                            <span class="count">4550</span>
-                            <span class="title">Active Users</span>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="counter-box white-style text-center">
-                            <span class="count">987</span>
-                            <span class="title">Get rewards</span>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="counter-box white-style text-center">
-                            <span class="count">9700</span>
-                            <span class="title">cup of coffee</span>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="counter-box white-style text-center">
-                            <span class="count">100</span>
-                            <span class="title">country coverage</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-    <!--====== Counter End ======-->
+   
 
     <!--====== History Section Start ======-->
     <section class="history-section grey-bg">
-        <!-- <div class="container">
-            <div class="section-title text-center mb-80">
-                <span class="title-tag">History</span>
-                <h2 class="title">our journey</h2>
-            </div>
-        </div>
-        <div class="history-timeline">
-            <div class="container-fluid container-1500">
-                <div class="timeline-btn-with-progess">
-                    <div class="progress">
-                        <div class="progress-bar" id="timelinProgess" role="progressbar">
-                        </div>
-                    </div>
-
-                    <ul class="nav timeline-tab-btns" role="tablist">
-                        <li class="nav-item list-active">
-                            <a class="nav-link active" href="about.html#tab-1" role="tab" data-toggle="tab">2000</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="about.html#tab-2" role="tab" data-toggle="tab">2005</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="about.html#tab-3" role="tab" data-toggle="tab">2008</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="about.html#tab-4" role="tab" data-toggle="tab">2012</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="about.html#tab-5" role="tab" data-toggle="tab">2015</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="about.html#tab-6" role="tab" data-toggle="tab">2020</a>
-                        </li>
-                    </ul>
-                </div>
-            </div> -->
+       
             <div class="container">
                 <div class="tab-content">
                     <div role="tabpanel" class="tab-pane fade in active show" id="tab-1">
@@ -247,120 +171,7 @@ head('Pagina principala');
 			</div>
 		</div>
 	</section>
-    <!--====== Team Section Start ======-->
-    <!-- <section class="team-section section-gap">
-        <div class="container">
-            <div class="section-title text-center mb-50">
-                <span class="title-tag">Expert</span>
-                <h2 class="title"> Expert team </h2>
-            </div>
-            <div class="row team-members team-member-slider">
-                <div class="col-lg-4">
-                    <div class="team-member">
-                        <div class="member-image">
-                            <img src="assets/img/team/01.jpg" alt="Team Member">
-                        </div>
-                        <div class="member-desc">
-                            <span class="position">founder</span>
-                            <h3 class="name">Rosalina d. william</h3>
-                            <ul class="social-links">
-                                <li><a href="about.html#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="about.html#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="about.html#"><i class="fab fa-behance"></i></a></li>
-                                <li><a href="about.html#"><i class="fab fa-youtube"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="team-member">
-                        <div class="member-image">
-                            <img src="assets/img/team/02.jpg" alt="Team Member">
-                        </div>
-                        <div class="member-desc">
-                            <span class="position">CEO</span>
-                            <h3 class="name">Romada r. miran</h3>
-                            <ul class="social-links">
-                                <li><a href="about.html#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="about.html#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="about.html#"><i class="fab fa-behance"></i></a></li>
-                                <li><a href="about.html#"><i class="fab fa-youtube"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="team-member">
-                        <div class="member-image">
-                            <img src="assets/img/team/03.jpg" alt="Team Member">
-                        </div>
-                        <div class="member-desc">
-                            <span class="position">designer</span>
-                            <h3 class="name">Miranda h. halim</h3>
-                            <ul class="social-links">
-                                <li><a href="about.html#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="about.html#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="about.html#"><i class="fab fa-behance"></i></a></li>
-                                <li><a href="about.html#"><i class="fab fa-youtube"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="team-member">
-                        <div class="member-image">
-                            <img src="assets/img/team/05.jpg" alt="Team Member">
-                        </div>
-                        <div class="member-desc">
-                            <span class="position">founder</span>
-                            <h3 class="name">Rosalina d. william</h3>
-                            <ul class="social-links">
-                                <li><a href="about.html#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="about.html#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="about.html#"><i class="fab fa-behance"></i></a></li>
-                                <li><a href="about.html#"><i class="fab fa-youtube"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="team-member">
-                        <div class="member-image">
-                            <img src="assets/img/team/05.jpg" alt="Team Member">
-                        </div>
-                        <div class="member-desc">
-                            <span class="position">CEO</span>
-                            <h3 class="name">Romada r. miran</h3>
-                            <ul class="social-links">
-                                <li><a href="about.html#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="about.html#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="about.html#"><i class="fab fa-behance"></i></a></li>
-                                <li><a href="about.html#"><i class="fab fa-youtube"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="team-member">
-                        <div class="member-image">
-                            <img src="assets/img/team/06.jpg" alt="Team Member">
-                        </div>
-                        <div class="member-desc">
-                            <span class="position">designer</span>
-                            <h3 class="name">Miranda h. halim</h3>
-                            <ul class="social-links">
-                                <li><a href="about.html#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="about.html#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="about.html#"><i class="fab fa-behance"></i></a></li>
-                                <li><a href="about.html#"><i class="fab fa-youtube"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-    <!--====== Team Section End ======-->
+   
 
     <!--====== Testimonials Start ======-->
     <?

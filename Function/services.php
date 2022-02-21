@@ -5,28 +5,7 @@
      <section class="service-section with-counter-box">
 		<div class="container">
 			<div class="row align-items-center justify-content-center">
-				<!-- <div class="col-xl-2 col-lg-8">
-					 <div class="counter-boxes row">
-						<div class="col-xl-12 col-sm-4 col-6 wow fadeInUp" data-wow-delay="300ms">
-							<div class="counter-box">
-								<span class="count">4550</span>
-								<span class="title">Active Users</span>
-							</div>
-						</div>
-						<div class="col-xl-12 col-sm-4 col-6 wow fadeInUp" data-wow-delay="400ms">
-							<div class="counter-box">
-								<span class="count">987</span>
-								<span class="title">Get Rewarda</span>
-							</div>
-						</div>
-						<div class="col-xl-12 col-sm-4 col-6 wow fadeInUp" data-wow-delay="500ms">
-							<div class="counter-box">
-								<span class="count">9700</span>
-								<span class="title">Cup of Coffee</span>
-							</div>
-						</div>
-					</div> 	
-				</div> -->
+
 				<div class="col-xl-10">
 					<div class="service-boxes wow fadeInRight" data-wow-delay="400ms">
 						<div class="service-box">

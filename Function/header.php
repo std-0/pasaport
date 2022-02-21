@@ -36,9 +36,7 @@ function head($title){
 </head>
 
 <body>
-	<!--[if lte IE 9]>
-		<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-	<![endif]-->
+	
 
 	<!--====== Preloader ======-->
 	<div id="preloader">
@@ -64,55 +62,14 @@ function head($title){
 						<ul>
 							<li class="current">
 								<a href="index.php">ГЛАВНАЯ</a>
-								<!-- <ul class="submenu">
-									<li><a href="index.html">Home One</a></li>
-									<li><a href="index-2.html">Home Two</a> </li>
-									<li><a href="index-3.html">Home Three</a></li>
-									<li><a href="index-4.html">Home Four</a></li>
-									<li><a href="index-5.html">Home Five <span class="menu-badge">New</span></a></li>
-									<li><a href="index-5-dark.html">Home Five(Dark) <span class="menu-badge">New</span></a></li>
-									<li>
-										<a href="index.html#">One Pages</a>
-										<ul class="submenu">
-											<li><a href="index-onepage.html">Home One</a></li>
-											<li><a href="index-2-onepage.html">Home Two</a> </li>
-											<li><a href="index-3-onepage.html">Home Three</a></li>
-											<li><a href="index-4-onepage.html">Home Four</a></li>
-											<li><a href="index-5-onepage.html">Home Five <span class="menu-badge">New</span></a></li>
-											<li><a href="index-5-onepage-dark.html">Home Five(Dark) <span class="menu-badge">New</span></a></li>
-										</ul>
-									</li>
-								</ul> -->
+							
 							</li>
 							<li><a href="about.php">О нас</a></li>
 							<li>
 								<a href="services.php">Паспорты</a>
-									<!-- <ul class="submenu">
-										<li><a href="service-details.html">Service Details</a></li>
-									</ul> -->
+									
 							</li>
-							<!-- <li>
-								<a href="index.html#">Pages</a>
-								 <ul class="submenu">
-									<li>
-										<a href="portfolio.html">Portfolio</a>
-										 <ul class="submenu">
-											<li><a href="portfolio.html">Portfolio One</a></li>
-											<li><a href="portfolio-2.html">Portfolio Two</a></li>
-											<li><a href="portfolio-3.html">Portfolio Three</a></li>
-											<li><a href="portfolio-4.html">Portfolio Four</a></li>
-											<li><a href="portfolio-details.html">Portfolio Details</a></li>
-										</ul> 
-									</li>
-									<li><a href="team.html">Team</a></li>
-								</ul> 
-							</li> -->
-							<!-- <li>
-								<a href="blog.html">News</a>
-								 <ul class="submenu">
-									<li><a href="blog-details.html">News Details</a></li>
-								</ul> 
-							</li> -->
+							
 							<li><a href="contact.php">Контакты</a></li>
 						</ul>
 					</div>
@@ -161,55 +118,14 @@ function head($title){
 						<ul>
 							<li class="current">
 								<a href="index.php">Главная</a>
-								<!-- <ul class="submenu">
-									<li><a href="index.html">Home One</a></li>
-									<li><a href="index-2.html">Home Two</a> </li>
-									<li><a href="index-3.html">Home Three</a></li>
-									<li><a href="index-4.html">Home Four</a></li>
-									<li><a href="index-5.html">Home Five <span class="menu-badge">New</span></a></li>
-									<li><a href="index-5-dark.html">Home Five(Dark) <span class="menu-badge">New</span></a></li>
-									<li>
-										<a href="index.html#">One Pages</a>
-										<ul class="submenu">
-											<li><a href="index-onepage.html">Home One</a></li>
-											<li><a href="index-2-onepage.html">Home Two</a> </li>
-											<li><a href="index-3-onepage.html">Home Three</a></li>
-											<li><a href="index-4-onepage.html">Home Four</a></li>
-											<li><a href="index-5-onepage.html">Home Five <span class="menu-badge">New</span></a></li>
-											<li><a href="index-5-onepage-dark.html">Home Five(Dark) <span class="menu-badge">New</span></a></li>
-										</ul>
-									</li>
-								</ul> -->
+								
 							</li>
 							<li><a href="about.php">о нас</a></li>
 							<li>
 								<a href="services.php">Пасспорты</a>
-								<!-- <ul class="submenu">
-									<li><a href="service-details.html">Service Details</a></li>
-								</ul> -->
+								
 							</li>
-							<!-- <li>
-								<a href="index.html#">Pages</a>
-								 <ul class="submenu">
-									<li>
-										<a href="portfolio.html">Portfolio</a>
-										<ul class="submenu">
-											<li><a href="portfolio.html">Portfolio One</a></li>
-											<li><a href="portfolio-2.html">Portfolio Two</a></li>
-											<li><a href="portfolio-3.html">Portfolio Three</a></li>
-											<li><a href="portfolio-4.html">Portfolio Four</a></li>
-											<li><a href="portfolio-details.html">Portfolio Details</a></li>
-										</ul>
-									</li>
-									<li><a href="team.html">Team</a></li>
-								</ul> 
-							</li> -->
-							<!-- <li>
-								<a href="blog.html">News</a>
-								 <ul class="submenu">
-									<li><a href="blog-details.html">News Details</a></li>
-								</ul> 
-							</li> -->
+							
 							<li><a href="contact.php">Контакты</a></li>
 						</ul>
 					</div>

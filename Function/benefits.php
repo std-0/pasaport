@@ -8,7 +8,7 @@ function benefits()
 <section class="latest-blog-section section-gap-less-bottom">
         <div class="container">
             <div class="section-title text-center mb-60">
-                <!-- <span class="title-tag">News & Blog</span> -->
+                
                 <h2 class="title">ЧТО МОЖНО ПОЛУЧИТЬ</h2>
                 <h2 class="title">С ГРАЖДАНСТВОМ РУМЫНИИ</h2>
             </div>

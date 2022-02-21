@@ -9,21 +9,10 @@ head("pagina principala")
             <span class="page-tag" style="font-style:capitalize">румынские паспорты</span>
             <h1 class="page-title small_text" style="font-size:80px;">СВЯЗАТЬСЯ С НАМИ</h1>
 
-            <!-- <ul class="breadcrumb-nav">
-                <li><a href="contact.html#">Home</a></li>
-                <li>contact us</li>
-            </ul> -->
+            
         </div>
     </section>
     <!--====== Breadcrumb end ======-->
-
-    <!--====== Contact Maps Start ======-->
-    <!-- <section class="contact-maps">
-        <iframe
-            src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d16249.383697457268!2d91.8743084038307!3d24.893251768165847!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1603347568911!5m2!1sen!2sbd"
-            allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-    </section> -->
-    <!--====== Contact Maps End ======-->
 
     <!--====== Contact Section Start ======-->
     <section class="contact-section section-gap-top">
@@ -36,12 +25,7 @@ head("pagina principala")
                             <h2 class="title">поместите данные здесь</h2>
                         </div>
                         <ul class="contact-info-list">
-                            <!-- <li>
-                                <p>
-                                    2005 Stokes Isle Apt. 896, Venaville 10010, United States
-                                </p>
-                                <a href="contact.html#">Get Directions</a>
-                            </li> -->
+                           
                             <li>
                                 <p>
                                     +987-786-765-765-87 <br> +9 (877) 86-765-765-87
