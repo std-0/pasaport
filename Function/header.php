@@ -7,12 +7,15 @@ function head($title){
 
 <head>
 	<!--====== Required meta tags ======-->
+
 	<meta charset="utf-8" />
 	<meta http-equiv="x-ua-compatible" content="ie=edge" />
-	<meta name="description" content="" />
+	<meta name="description" content="Euro-Documents, Документы, Документы в Румынию, Документы для румынского гражданства, Получение румынского гражданства" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<meta name="keywords" content="Euro-Documents, Паспорт, Румынский Паспорт, Паспорт Румынский, Румыния, Документы, Документы в Румынию, Документы для румынского гражданства, Получение румынского гражданства ">
+	<meta name = "revised" content = "Euro-Documents, 22/7/2022" />
 	<!--====== Title ======-->
-	<title> Pașaport.ru </title>
+	<title> Euro-Documents </title>
 	<!--====== Favicon Icon ======-->
 	<link rel="shortcut icon" href="assets/img/favicon.ico" type="img/png" />
 	<!--====== Animate Css ======-->
@@ -32,7 +35,10 @@ function head($title){
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	
 <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+
 	
+
+
 </head>
 
 <body>
@@ -54,13 +60,13 @@ function head($title){
 				<div class="nav-container">
 					<!-- Site Logo -->
 					<div class="site-logo">
-						<a href="index.php"><img src="assets/img/logotipa.png" alt="Logo"></a>
+						<a href="index.php"><img src="assets/img/logoalb.png" alt="Logo"></a>
 					</div>
 
 					<!-- Menu Items -->
 					<div class="menu-items">
 						<ul>
-							<li class="current">
+							<li>
 								<a href="index.php">ГЛАВНАЯ</a>
 							
 							</li>
@@ -99,7 +105,7 @@ function head($title){
 					<div class="contact-info">
 						<i class="fal fa-phone"></i>
 						<span class="title">Телефонный номер</span>
-						<span class="info">06919272</span>
+						<span class="info"><a href="tel:+40745336400">+40745336400</a></span>
 					</div>
 				</div>
 

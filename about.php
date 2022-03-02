@@ -6,7 +6,7 @@ head('Pagina principala');
     <!--====== Breadcrumb Start ======-->
     <section class="breadcrumb-section" style="background-image: url(assets/img/x2.jpg);">
         <div class="container">
-            <span class="page-tag">Добро Пожаловать!</span>
+            <span class="page-tag">Добро Пожаловать</span>
             <h1 class="page-title">О Нас</h1>
 
             

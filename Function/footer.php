@@ -34,12 +34,12 @@ function footer(){
 				<div class="row align-items-center justify-content-between">
 					<div class="col-md-6 col-12">
 						<div class="footer-logo text-center text-md-left">
-							<img src="assets/img/logotipa.png" alt="Yankee">
+							<img src="assets/img/logoalb.png" alt="logo">
 						</div>
 					</div>
 					<div class="col-md-6 col-12">
 						<div class="copyright text-center text-md-right">
-							<p>Copyright ©2022. Все права защищены,Разработано <a href="https://www.artweb.md" style="font-size:20px">ArtWeb</a></p>
+							<p>Copyright ©2022. Все права защищены.</p>
 						</div>
 					</div>
 				</div>

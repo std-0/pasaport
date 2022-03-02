@@ -28,9 +28,10 @@ head("pagina principala")
                            
                             <li>
                                 <p>
-                                    +987-786-765-765-87 <br> +9 (877) 86-765-765-87
+                                    <a href="tel:+40745336400">+40745336400</a>
+                                   
                                 </p>
-                                <a href="contact.html#">вызов</a>
+                               
                             </li>
                         </ul>
                     </div>
