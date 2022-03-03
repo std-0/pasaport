@@ -4,7 +4,7 @@ function banner(){
     
     <section class="banner-section">
     <div id="bannerSlider">
-        <div class="single-banner" style="background-image: url(assets/img/banner/baner01.jpg);">
+        <div class="single-banner" style="background-image: url(assets/img/banner/banerib.jpg);">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-8">

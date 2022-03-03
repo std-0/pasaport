@@ -9,6 +9,39 @@ head("Pagina principala");
 	?>
 	<!--====== Banner Slider End ======-->
 
+	<!-- form start -->
+	<section class="contact-section section-gap-top">
+        <div class="container">
+            <div class="row justify-content-center">
+               
+                <div class="col-lg-8 col-md-10">
+                    <div class="contact-form">
+                        <form action="contact.html#">
+						<h3>СВЯЖИТЕСЬ С НАМИ</h3><br>
+                            <div class="row">
+								
+                                <div class="col-lg-6 mb-20">
+                                    <input type="text" placeholder="полное имя" id="FirstName" name="FirstName">
+                                </div>
+                                <div class="col-lg-6 mb-20">
+                                    <input type="text" placeholder="телефонный номер" id="LastName" name="LastName">
+                                </div>
+                             
+                                <div class="col-12 mb-20">
+                                    <textarea id="message" name="message" placeholder="Что вас интересует"></textarea>
+                                </div>
+                                <div class="col-12 text-center">
+                                    <button type="submit" class="main-btn main-btn-2">получить консультацию</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+<!-- form end -->
+
 	<!--====== About Section Start ======-->
 	<section class="about-section section-gap">
 		<div class="container">
@@ -48,6 +81,7 @@ head("Pagina principala");
 		</div>
 	</section>
 	<!--====== About Section End ======-->
+	
 
 	<!--====== Service With counter Start ======-->
 	<?

@@ -4,7 +4,7 @@ head('Pagina principala');
 ?>
 
     <!--====== Breadcrumb Start ======-->
-    <section class="breadcrumb-section" style="background-image: url(assets/img/baner01.jpg);">
+    <section class="breadcrumb-section" style="background-image: url(assets/img/banner/banerib.jpg);">
         <div class="container">
             <span class="page-tag">Оформление </span>
             <h1 class="page-title">румынского Паспорта</h1>

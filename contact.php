@@ -4,7 +4,7 @@ head("pagina principala")
 ?>
 
     <!--====== Breadcrumb Start ======-->
-    <section class="breadcrumb-section" style="background-image: url(assets/img/banner/baner01.jpg);">
+    <section class="breadcrumb-section" style="background-image: url(assets/img/blbaner.jpg);">
         <div class="container">
             <span class="page-tag" style="font-style:capitalize">румынские паспорты</span>
             <h1 class="page-title small_text" style="font-size:80px;">СВЯЗАТЬСЯ С НАМИ</h1>
@@ -25,12 +25,14 @@ head("pagina principala")
                             <h2 class="title">поместите данные здесь</h2>
                         </div>
                         <ul class="contact-info-list">
-                           
+                                    <a href="tg://resolve?domain=@Eurodocumentsru" style="color:black; font-size: 29px;" class="fa fa-telegram"  ></a>
+                                    <a href="https://wa.me/+40745336400" style="color:black; font-size: 32px;" class="fa fa-whatsapp" ></a>
+                                    <a href="viber://add?number=+40745336400" style="color:black; font-size: 30px;" class="fab fa-viber"></a>
                             <li>
-                                <p>
-                                    <a href="tel:+40745336400">+40745336400</a>
-                                   
-                                </p>
+                                    
+                                    
+                                    <a href="tel:+40745336400" style="font-size: 20px;">+40745336400</a>
+                               
                                
                             </li>
                         </ul>

@@ -17,7 +17,7 @@ function head($title){
 	<!--====== Title ======-->
 	<title> Euro-Documents </title>
 	<!--====== Favicon Icon ======-->
-	<link rel="shortcut icon" href="assets/img/favicon.ico" type="img/png" />
+	<link rel="shortcut icon" href="assets/img/logoalb.png" type="img/png" />
 	<!--====== Animate Css ======-->
 	<link rel="stylesheet" href="assets/css/animate.min.css">
 	<!--====== Bootstrap css ======-->
@@ -101,10 +101,15 @@ function head($title){
 				</div>
 
 				<!-- Contact button -->
+				
 				<div class="contact-btn">
 					<div class="contact-info">
-						<i class="fal fa-phone"></i>
-						<span class="title">Телефонный номер</span>
+					<span class="s-header-icons">
+                                    <a href="tg://resolve?domain=@Eurodocumentsru" style="color:black" class="fa fa-telegram"  ></a>
+                                    <a href="https://wa.me/+40745336400" style="color:black" class="fa fa-whatsapp" ></a>
+                                    <a href="viber://add?number=+40745336400" style="color:black" class="fab fa-viber"></a>
+                                </span>
+						
 						<span class="info"><a href="tel:+40745336400">+40745336400</a></span>
 					</div>
 				</div>
@@ -117,7 +122,7 @@ function head($title){
 					</div>
 
 					<div class="site-logo">
-						<a href="index.html"><img src="assets/img/logo-3.png" alt="Logo"></a>
+						<a href="index.html"><img src="assets/img/logoalb.png" alt="Logo"></a>
 					</div>
 
 					<div class="menu-items">
@@ -137,12 +142,16 @@ function head($title){
 					</div>
 
 					<div class="contact-btn">
-						<div class="contact-info">
-							<i class="fal fa-phone"></i>
-							<span class="title">телефонный номер</span>
-							<span class="info">987-987-987-98</span>
-						</div>
+					<div class="contact-info">
+					<span class="s-header-icons">
+                                    <a href="tg://resolve?domain=@Eurodocumentsru" style="color:black" class="fa fa-telegram"  ></a>
+                                    <a href="https://wa.me/+40745336400" style="color:black" class="fa fa-whatsapp" ></a>
+                                    <a href="viber://add?number=+40745336400" style="color:black" class="fab fa-viber"></a>
+                                </span>
+						
+						<span class="info"><a href="tel:+40745336400">+40745336400</a></span>
 					</div>
+				</div>
 				</div>
 			</div>
 		</div>

@@ -9643,3 +9643,22 @@ body > section.latest-blog-section.section-gap-less-bottom > div > div.row.lates
 	max-height: 200px;
 	padding: 12px 40px!important;
 }
+body > section.contact-section.section-gap-top > div > div > div > div > form > h3{
+	text-align: center!important;
+}
+.s-header-icons {
+    position: absolute;
+    z-index: 11;
+    right: 100%;
+	font-size: 25px;
+	top: -20px;
+    
+}
+body > header > div > div > div.mobile-menu.menu-on > div.site-logo{
+width: 170px;
+}
+body > header > div > div > div.mobile-menu.menu-on > div.contact-btn > div > span.s-header-icons
+{
+	font-size: 20px;
+	top: -19px;
+}
